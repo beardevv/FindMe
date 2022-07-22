@@ -1,3 +1,12 @@
 # FindMe ⛅
 
-A social media application to connect with people in your local area.
+A social media platform to connect with people in your local area
+
+Frontend stack:
+
+- React
+
+Backend stack:
+
+- MongoDB
+- Express
