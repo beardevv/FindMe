@@ -1,12 +1,12 @@
-# FindMe ⛅
+# **FindMe** ⛅
 
 A social media platform to connect with people in your local area
 
 Frontend stack:
 
-- React
+- **React**
 
 Backend stack:
 
-- MongoDB
-- Express
+- **MongoDB**
+- **Express**
